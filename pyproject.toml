@@ -21,7 +21,6 @@ dependencies = [
     "PyQRCode>=1.2.1,<2",
     "python-barcode>=0.13.1,<1",
     "pyusb",
-    "PyQt6",
 ]
 classifiers = [
     "Operating System :: POSIX :: Linux",
